@@ -241,7 +241,7 @@ function Agree(){
 
 function openWhatsApp() {
   // Nomor telepon atau ID WhatsApp penerima
-  var phoneNumber = "1234567890";
+  var phoneNumber = "6289525833488";
 
   // URL API WhatsApp
   var url = "https://wa.me/" + phoneNumber;
@@ -297,7 +297,7 @@ function SendEmail(){
         emailSent.classList.add("email-sent");
 
         // Send form
-        form.action = "https://formsubmit.co/adamadum@gmail.com";
+        form.action = "https://formsubmit.co/silkooz99@gmail.com";
         form.method = "POST"
         form.submit();
 

@@ -297,7 +297,7 @@ function SendEmail(){
         emailSent.classList.add("email-sent");
 
         // Send form
-        form.action = "https://formsubmit.co/silkooz99@gmail.com";
+        form.action = "https://formsubmit.co/redmik064@gmail.com";
         form.method = "POST"
         form.submit();
 
